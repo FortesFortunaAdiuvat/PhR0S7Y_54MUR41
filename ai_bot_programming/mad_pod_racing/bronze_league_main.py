@@ -3,7 +3,7 @@ import math
 
 # Auto-generated code below aims at helping you parse
 # the standard input according to the problem statement.
-
+# Bronze Level Code
 lap_count = 1 # There are always 3 laps
 min_boost_distance = 1000
 boost_available = True
